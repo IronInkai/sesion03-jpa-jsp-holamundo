@@ -7,6 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Hola mundo
+	<form method = "post">
+		Nombre: <input type = "text" name="nombre"><br>
+		Apellido: <input type = "text" name="nombre"><br>
+		
+		<input type = "submit" value="Registrar" >
+	</form>
 </body>
 </html>
